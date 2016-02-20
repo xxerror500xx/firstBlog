@@ -21,3 +21,9 @@ I'm adding some gems to really dig into the tutorial. Inspired by [7-must-have-g
 
 Still a couple more I want to try from that page but lets see how these work out first.
 Kitchen sink here I come.
+
+tut completed in 17 hours.
+Awesome straight forward tutorial very helpful after [Learn Ruby on Rails: Book Two Daniel Kehoe](http://learn-rails.com/)
+Next tutorial will be:
+[Getting Started with Rails](https://www.railstutorial.org/book)
+It looks like it will be mostly just practice of the previous two books.
